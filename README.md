@@ -17,9 +17,14 @@ It’s actively being improved and evolves as I develop new projects.
 ## 🚀 What I’m building
 
 - 🤖 **EVA** — AI companion for the elderly *(private, in development)*  
+  → focused on voice interaction, accessibility and real-world usability  
+
 - 📚 **EduPath** — AI learning programme generator *(in development)*  
   → already validated through real use cases, currently being structured and scaled  
-- 💼 **JobAgent** — AI job search automation *(building)*  
+
+- 💼 **JobAgent** — AI job search automation *(private, in development)*  
+  → currently in use, being extended with LinkedIn integration  
+
 - 🌍 **World Cup Prediction App** — built end-to-end with AI  
   → currently in final development phase, launching soon  
 
