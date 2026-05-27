@@ -58,5 +58,5 @@ I operate at the intersection of:
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/carlos-dorronsoro-malaga/]
-- Email: [carlos.dorronsoro.malaga@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/carlos-dorronsoro-malaga/
+- Email: carlos.dorronsoro.malaga@gmail.com
