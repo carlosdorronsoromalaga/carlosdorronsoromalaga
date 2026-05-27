@@ -1,70 +1,62 @@
-## Hi there, I am Carlos 👋
+# Carlos Dorronsoro Málaga 👋
 
-## 🤖 Who I am
-AI-native problem solver focused on creating real impact.  
-I see AI as a tool to understand the world better, solve meaningful problems and build things that actually matter.
-
-I’m driven by curiosity and a constant desire to improve, always trying to go one step further, always asking “what else can be done?”.
+**Building AI-powered products from idea to execution.**
 
 ---
 
-## ⚡ What I do
-- Turn ideas into real-world solutions
-- Identify problems and build practical ways to solve them
-- Bridge business and technology to make things happen
-- Lead and push execution forward
+## 🌐 Portfolio
 
-I don’t enjoy staying in the theory: I like building, testing, iterating and making things work.
+→ https://carlosdorronsoromalaga.com
 
----
+My personal website reflects how I think, build and approach problems.
 
-## 🔍 What I love
-What I enjoy the most is simple:
-> solving real problems
-
-Especially when I can:
-- Take ownership  
-- Build something from scratch  
-- Drive execution and see results  
-
-I’m particularly motivated by challenges where I can lead, structure and transform ideas into something real.
-
----
-
-## 🧠 How I learn
-- Hands-on: building, testing and iterating
-- Staying up to date with what’s happening in the world
-- Understanding deeply how things work (not just using them)
-- Constant exploration → curiosity is my default state
+It’s actively being improved and evolves as I develop new projects.
 
 ---
 
 ## 🚀 What I’m building
-- 🏆 World Cup Predictions App (80% done)
-- 🤖 EVA (AI-driven solution, currently starting development)
-- 🎓 Educational Program Factory (starting with healthcare, scaling further)
+
+- 🤖 **EVA** — AI companion for the elderly *(private, in development)*  
+- 📚 **EduPath** — AI learning programme generator *(in development)*  
+  → already validated through real use cases, currently being structured and scaled  
+- 💼 **JobAgent** — AI job search automation *(building)*  
+- 🌍 **World Cup Prediction App** — built end-to-end with AI  
+  → currently in final development phase, launching soon  
 
 ---
 
-## 🎯 Current focus
-- Building real AI-driven products
-- Understanding AI deeply (not just using it, but mastering it)
-- Creating solutions with real-world impact
+## ⚡ Focus
+
+- AI product development  
+- AI adoption & strategy  
+- Turning ideas into real-world execution  
 
 ---
 
-## 🌉 What makes me different
-- Strong bridge between business and technology
-- Fast learner, always adapting and evolving
-- High curiosity and constant improvement mindset
-- Leadership and execution-oriented mentality
+## 🧠 Approach
+
+I build by combining structured thinking with AI-driven execution.
+
+- Start from real-world problems  
+- Break them down into clear systems  
+- Use AI to design and accelerate solutions  
+- Test in reality, not in theory  
+- Continuously refine through iteration  
 
 ---
 
-## 💥 Mindset
-I believe in:
-- Building over thinking  
-- Execution over ideas  
-- Impact over noise  
+## 🌉 Positioning
 
-Always moving forward 🚀
+I operate at the intersection of:
+
+- Business  
+- Technology  
+- Execution  
+- People  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [https://www.linkedin.com/in/carlos-dorronsoro-malaga/]
+- Email: [carlos.dorronsoro.malaga@gmail.com]
