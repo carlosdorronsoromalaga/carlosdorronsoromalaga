@@ -4,7 +4,7 @@
 AI-native problem solver focused on creating real impact.  
 I see AI as a tool to understand the world better, solve meaningful problems and build things that actually matter.
 
-I’m driven by curiosity and a constant desire to improve — always trying to go one step further, always asking “what else can be done?”.
+I’m driven by curiosity and a constant desire to improve, always trying to go one step further, always asking “what else can be done?”.
 
 ---
 
@@ -14,7 +14,7 @@ I’m driven by curiosity and a constant desire to improve — always trying to 
 - Bridge business and technology to make things happen
 - Lead and push execution forward
 
-I don’t enjoy staying in the theory — I like building, testing, iterating and making things work.
+I don’t enjoy staying in the theory: I like building, testing, iterating and making things work.
 
 ---
 
